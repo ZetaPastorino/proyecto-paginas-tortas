@@ -137,7 +137,6 @@ footer {
     }
 
     .content {
-        order: -1;
         margin-bottom: 20px;
         margin-top: 20px;
     }
@@ -157,7 +156,6 @@ footer {
     }
 
     .content {
-        order: -1;
         margin-bottom: 20px;
         margin-top: 20px;
     }
@@ -169,7 +167,6 @@ footer {
         display: flex;
     }
 
-
     .img-container {
         display: flex;
         justify-content: space-between;
@@ -180,9 +177,6 @@ footer {
         justify-content: space-between;
     }
 
-    .img-container img {
-        width: calc(50% - 10px); 
-    }
 }
 
 
